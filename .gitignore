@@ -2,3 +2,4 @@
 *.a
 *~
 *.so
+examples-api-use/input-example
